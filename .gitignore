@@ -35,8 +35,7 @@ ExportedObj/
 .consulo/
 *.csproj
 *.unityproj
-*.sln
-!Hafta_1.sln
+#*.sln
 *.suo
 *.tmp
 *.user
