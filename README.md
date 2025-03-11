@@ -9,3 +9,9 @@
 |----------|
 | Unity Çarpışma Sonrası Renk Değiştirme |
 | [YouTube Videosu](https://youtu.be/x1s2IBAH2RU)|
+
+
+| 3.Hafta |
+|----------|
+|Unity'de Can Sistemi ve FindAnyObjectByType |
+| [YouTube Videosu](https://www.youtube.com/watch?v=8nz1rTVmc7g)|
