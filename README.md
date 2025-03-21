@@ -15,3 +15,9 @@
 |----------|
 |Unity'de Can Sistemi ve FindAnyObjectByType |
 | [YouTube Videosu](https://www.youtube.com/watch?v=8nz1rTVmc7g)|
+
+| 4.Hafta |
+|----------|
+|Coin Toplama |
+| [YouTube Videosu](https://youtu.be/jtmBN2ZAbrA)|
+
